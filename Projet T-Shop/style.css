@@ -1,0 +1,13 @@
+#carte
+{
+    width: 1300px;
+    margin:0 auto;
+    text-align: center;
+    align-content: center;
+	font-family:Bahnschrift ;
+}
+header{
+	background-image:url("imagehautfront.jpg") ;
+	background-size: cover; 
+	background-position: center ;
+}
